@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="library_environment.png" width="500">
+  <img src="library_environment.jpg" width="500">
 </p>
+
 
 
