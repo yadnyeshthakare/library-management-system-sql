@@ -11,15 +11,15 @@ Database: PostgreSQL (library_management_system)
 
 This project demonstrates the implementation of a complete Library Management System using SQL.
 It includes creating and managing tables, performing CRUD operations, defining relationships, and executing analytical queries.
-The goal is to showcase skills in database design, data manipulation, and query optimization — aligning with professional data engineering and analytics practices.
+The goal is to showcase skills in database design, data manipulation, and query optimization aligning with professional data engineering and analytics practices.
 
 Core Features:
 
-•	Set up the Library Database: Create and populate tables for branches, employees, members, books, issued status, and return status.
-•	CRUD Operations: Perform Create, Read, Update, and Delete actions on entities.
-•	CTAS (Create Table As Select): Create new tables dynamically from existing queries.
-•	Data Validation: Identify and handle null values, duplicates, and inconsistent records.
-•	Analytical Reporting: Generate insights like category-wise rentals, branch performance, and revenue analysis.
+•	Set up the Library Database: Create and populate tables for branches, employees, members, books, issued status, and return status.  
+•	CRUD Operations: Perform Create, Read, Update, and Delete actions on entities.  
+•	CTAS (Create Table As Select): Create new tables dynamically from existing queries.  
+•	Data Validation: Identify and handle null values, duplicates, and inconsistent records.  
+•	Analytical Reporting: Generate insights like category-wise rentals, branch performance, and revenue analysis.  
 
 🖼️ Project Visualization
 
@@ -46,15 +46,15 @@ Core Features:
 A library environment where members borrow and return books, managed through an efficient, data-driven system.
 
 
-🏗️ Project Structure
+🏗️ Project Structure  
 
-sql/
-├── 001_create_tables.sql        -- Defines all entity tables
-├── 002_add_constraints.sql      -- Adds primary/foreign keys, indexes
-├── 003_sample_queries.sql       -- CRUD and analytical examples
-├── 004_views_and_reports.sql    -- Reporting views and summaries
-├── 005_data_quality_checks.sql  -- Null/duplicate/integrity validations
-├── 006_seed_data.sql            -- Inserts sample data
+sql/  
+├── 001_create_tables.sql        -- Defines all entity tables  
+├── 002_add_constraints.sql      -- Adds primary/foreign keys, indexes  
+├── 003_sample_queries.sql       -- CRUD and analytical examples  
+├── 004_views_and_reports.sql    -- Reporting views and summaries  
+├── 005_data_quality_checks.sql  -- Null/duplicate/integrity validations  
+├── 006_seed_data.sql            -- Inserts sample data  
 
 
 ⚙️ How to Run the Project:
@@ -75,59 +75,60 @@ sql/
 
 📊 Skills Demonstrated:
 
-🧱 Database Design
-•	Normalized schema (3NF)
-•	Audit columns (created_at, updated_at)
+🧱 Database Design  
+•	Normalized schema (3NF)  
+•	Audit columns (created_at, updated_at)  
 
-🔗 Relationships & Constraints
-•	Primary and foreign keys
-•	Referential integrity enforcement
-•	Indexing for optimized joins
+🔗 Relationships & Constraints  
+•	Primary and foreign keys  
+•	Referential integrity enforcement  
+•	Indexing for optimized joins  
 
-⚡ SQL Operations
-•	CRUD operations
-•	Aggregation and grouping
-•	Business logic queries
+⚡ SQL Operations  
+•	CRUD operations  
+•	Aggregation and grouping  
+•	Business logic queries  
 
-📈 Analytical Views & Reports
-•	Category-wise book rentals
-•	Branch performance reports
-•	Revenue summaries by author or category
+📈 Analytical Views & Reports  
+•	Category-wise book rentals  
+•	Branch performance reports  
+•	Revenue summaries by author or category  
 
-✅ Data Quality & Governance
-•	Null and duplicate detection
-•	Consistency and range validation
-•	Quality assurance queries
+✅ Data Quality & Governance  
+•	Null and duplicate detection  
+•	Consistency and range validation  
+•	Quality assurance queries  
 
-🧩 Tools & Technologies
-Tool	Purpose
-PostgreSQL	Database engine
-pgAdmin4	Database client
-VS Code	SQL scripting and documentation
-Git / GitHub	Version control and collaboration
-Excel	Data validation and exploration
+🧩 Tools & Technologies  
+• Tool	Purpose    
+• PostgreSQL	Database engine    
+• pgAdmin4	Database client    
+• VS Code	SQL scripting and documentation    
+• Git / GitHub	Version control and collaboration    
+• Excel	Data validation and exploration    
 
-📘 Example Use Cases
-•	Track book issues, returns, and overdue status
-•	Monitor branch performance and employee workloads
-•	Identify expensive books or popular categories
-•	Generate category-wise revenue and utilization reports
+📘 Example Use Cases  
+•	Track book issues, returns, and overdue status  
+•	Monitor branch performance and employee workloads  
+•	Identify expensive books or popular categories  
+•	Generate category-wise revenue and utilization reports  
 
-🚀 Optional Extensions
-You can enhance this project by:
-•	Adding triggers to auto-update updated_at
-•	Creating stored procedures for issue/return transactions
-•	Building Power BI or Tableau dashboards using the SQL views
+🚀 Optional Extensions  
+You can enhance this project by:  
+•	Adding triggers to auto-update updated_at  
+•	Creating stored procedures for issue/return transactions  
+•	Building Power BI or Tableau dashboards using the SQL views  
 
 
-👨‍💻  Author – Yadnyesh Thakare
-🔗  LinkedIn -linkedin.com/in/yadnyesh-thakare
-📧  thakareyadnyesh@gmail.com
+👨‍💻  Author – Yadnyesh Thakare  
+🔗  LinkedIn -linkedin.com/in/yadnyesh-thakare  
+📧  thakareyadnyesh@gmail.com  
 
 🏁 Summary:
 
 This project applies a structured, modular SQL development approach — separating table creation, constraints, analytical queries, and data-quality checks.
 It reflects strong database design, data analysis, and governance practices aligned with real-world enterprise workflows.
+
 
 
 
