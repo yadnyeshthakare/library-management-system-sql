@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="library_environment.png" width="500">
+  <img src="library_environment.jpg" width="500">
   <br><em>Real-World Context – Physical Library Environment Representation</em>
 </p>
+
 
 
 
