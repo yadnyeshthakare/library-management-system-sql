@@ -1,15 +1,16 @@
 # Library Management System (SQL Project)
  
-A structured SQL-based Library Management System built using PostgreSQL. This project demonstrates practical database design, data integrity, and analytical querying on a realistic multi-table system.
+A structured SQL project focused on designing a relational database for a library domain using PostgreSQL. The project covers schema design, constraints, data validation, and analytical queries on a realistic multi-table dataset.
 
-It reflects how relational databases are created, populated, validated, and queried in real-world analytics and operations workflows.
+It demonstrates how operational data is modeled and prepared for reporting and analysis in real-world analytics workflows.
 
 
 ## Project Overview
 
-Project Title: Library Management System  
-Level: Intermediate  
-Database: PostgreSQL   
+Domain: Library operations
+Database: PostgreSQL
+Tables: 6 (books, members, loans, etc.)
+Focus: schema design, constraints, joins, analytical queries
 
 It includes creating and managing tables, performing CRUD operations, defining relationships, and executing analytical queries.
 The goal is to showcase skills in database design, data manipulation, and query optimization aligning with professional data engineering and analytics practices.
@@ -120,6 +121,7 @@ Email: thakareyadnyesh@gmail.com
 This project follows a modular SQL workflow covering schema design, constraints, data loading, CRUD operations, analytical querying, reporting, data validation, and schema migration.  
 
 It demonstrates practical SQL and relational database skills aligned with real-world enterprise workflows.  
+
 
 
 
