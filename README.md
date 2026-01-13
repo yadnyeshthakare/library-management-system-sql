@@ -1,4 +1,4 @@
-# Library Management System (SQL Project)
+# Library Database Design & Analytics (PostgreSQL)
  
 A structured SQL project focused on designing a relational database for a library domain using PostgreSQL. The project covers schema design, constraints, data validation, and analytical queries on a realistic multi-table dataset.
 
@@ -121,6 +121,7 @@ Email: thakareyadnyesh@gmail.com
 This project follows a modular SQL workflow covering schema design, constraints, data loading, CRUD operations, analytical querying, reporting, data validation, and schema migration.  
 
 It demonstrates practical SQL and relational database skills aligned with real-world enterprise workflows.  
+
 
 
 
